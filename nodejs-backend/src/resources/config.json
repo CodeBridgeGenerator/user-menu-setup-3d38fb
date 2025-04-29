@@ -62,7 +62,7 @@
       "sidebar": [],
       "schemaList": [
         {
-          "fieldName": "name",
+          "fieldName": "named",
           "type": "String",
           "unique": false,
           "lowercase": false,
@@ -77,7 +77,7 @@
           "sortable": true,
           "required": true,
           "component": "p",
-          "label": "Name",
+          "label": "Named",
           "faker": {
             "module": "datatype",
             "subModule": "boolean",
